@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/reactPizzaCart/static/css/main.14d5fcc9.chunk.css",
-    "main.js": "/reactPizzaCart/static/js/main.e6d91277.chunk.js",
-    "main.js.map": "/reactPizzaCart/static/js/main.e6d91277.chunk.js.map",
+    "main.js": "/reactPizzaCart/static/js/main.d8bbf5a1.chunk.js",
+    "main.js.map": "/reactPizzaCart/static/js/main.d8bbf5a1.chunk.js.map",
     "runtime-main.js": "/reactPizzaCart/static/js/runtime-main.430923c4.js",
     "runtime-main.js.map": "/reactPizzaCart/static/js/runtime-main.430923c4.js.map",
     "static/js/2.eb2fdacf.chunk.js": "/reactPizzaCart/static/js/2.eb2fdacf.chunk.js",
     "static/js/2.eb2fdacf.chunk.js.map": "/reactPizzaCart/static/js/2.eb2fdacf.chunk.js.map",
     "index.html": "/reactPizzaCart/index.html",
-    "precache-manifest.b85567900d880674f03022cebc0ef5b0.js": "/reactPizzaCart/precache-manifest.b85567900d880674f03022cebc0ef5b0.js",
+    "precache-manifest.6a27acb0a979ab1e023b86b27a266bb1.js": "/reactPizzaCart/precache-manifest.6a27acb0a979ab1e023b86b27a266bb1.js",
     "service-worker.js": "/reactPizzaCart/service-worker.js",
     "static/css/main.14d5fcc9.chunk.css.map": "/reactPizzaCart/static/css/main.14d5fcc9.chunk.css.map",
     "static/js/2.eb2fdacf.chunk.js.LICENSE.txt": "/reactPizzaCart/static/js/2.eb2fdacf.chunk.js.LICENSE.txt",
@@ -20,6 +20,6 @@
     "static/js/runtime-main.430923c4.js",
     "static/js/2.eb2fdacf.chunk.js",
     "static/css/main.14d5fcc9.chunk.css",
-    "static/js/main.e6d91277.chunk.js"
+    "static/js/main.d8bbf5a1.chunk.js"
   ]
 }
