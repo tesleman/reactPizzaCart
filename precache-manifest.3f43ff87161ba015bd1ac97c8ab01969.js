@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "5ff3a432f2aaad2c34e657681ac9670b",
+    "revision": "a7c373b977164c8715f876417c27472b",
     "url": "/reactPizzaCart/index.html"
   },
   {
-    "revision": "cfcb5c32f7ccd4e035e2",
+    "revision": "7a823c3338c3da45026d",
     "url": "/reactPizzaCart/static/css/main.14d5fcc9.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/reactPizzaCart/static/js/2.eb2fdacf.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "cfcb5c32f7ccd4e035e2",
-    "url": "/reactPizzaCart/static/js/main.d8bbf5a1.chunk.js"
+    "revision": "7a823c3338c3da45026d",
+    "url": "/reactPizzaCart/static/js/main.b0dc2229.chunk.js"
   },
   {
     "revision": "933c52362a627d0f66a3",
